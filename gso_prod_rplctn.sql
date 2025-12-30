@@ -1,0 +1,1 @@
+select * from gs_edb_cms.GSO_PROD_RPLCTN;
